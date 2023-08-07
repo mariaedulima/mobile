@@ -1,0 +1,9 @@
+body{}
+.cadastro{
+    margin: 10px;
+    border: auto;
+    border-radius: 5px;
+    height: 30px;
+    background-color: aqua;
+    color: blue;
+}
